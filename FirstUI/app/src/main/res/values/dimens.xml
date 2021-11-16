@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="universal_margin">16dp</dimen>
+    <dimen name="cardview_text_left_margin">128dp</dimen>
+    <dimen name="cardview_text_top_margin">42dp</dimen>
+    <dimen name="cardview_top_margin">64dp</dimen>
+
+    <dimen name="cardview_image_size">96dp</dimen>
+    <dimen name="cardview_height">128dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+
+    <dimen name="cardview_corner_radius">4dp</dimen>
+</resources>
